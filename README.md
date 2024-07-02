@@ -26,6 +26,48 @@
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+## Configuração do Projeto
+
+<ul>
+<li>Pré-requisitos</li>
+<li>Java 17 ou superior</li>
+<li>Maven</li>
+<li>PostgreSQL</li>
+
+
+### Instalação
+1. Clone o repositório:
+
+<pre>
+git clone https://github.com/seu-usuario/literalura.git
+cd literalura
+</pre>
+
+2. Configure o banco de dados no arquivo application.properties:
+
+<pre>
+spring.datasource.url=jdbc:postgresql://localhost:5432/literalura
+spring.datasource.username=seu-usuario
+spring.datasource.password=sua-senha
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+Execute o projeto:
+</pre>
+
+3. Execute o projeto:
+<pre>mvn spring-boot:run</pre>
+
+## Estrutura do Projeto
+
+* cloud.shaick.literalura: Pacote principal do projeto.
+- main: Contém a classe Principal, que gerencia a execução da aplicação.
+- model: Contém as classes de modelo (Livro, Autor, LivroDTO, AutorDTO).
+- repository: Contém as interfaces de repositório Spring Data JPA.
+- service: Contém as classes de serviço (ConsumoAPI, ConverteDados).
+
+## Uso
+<p>Ao iniciar a aplicação, o menu principal será exibido com as opções disponíveis. Basta seguir as instruções na tela para navegar pelas funcionalidades.</p>
+
 ## LinkedIn 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/shaick/
 
