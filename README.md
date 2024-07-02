@@ -69,7 +69,7 @@ Execute o projeto:
 <p>Ao iniciar a aplicação, o menu principal será exibido com as opções disponíveis. Basta seguir as instruções na tela para navegar pelas funcionalidades.</p>
 
 ## LinkedIn 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/shaick/
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn Wilson Cardoso: Shaick](https://www.linkedin.com/in/shaick/)
 
 ## Youtube
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)  https://www.youtube.com/channel/UCkmng9THj4jMxrk8963ZxLg
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [Meu Canal](https://www.youtube.com/channel/UCkmng9THj4jMxrk8963ZxLg)
