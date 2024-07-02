@@ -8,6 +8,15 @@
 <p>Esta aplicação permite buscar livros, listar livros registrados, listar autores, e muitas outras funcionalidades relacionadas à leitura e organização de livros.</p>
 
 ## Tecnologias
+<ul>
+<li>Java 17v
+<li>Spring Boot 2.7</li>
+<li>Hibernate</li>
+<li>PostgreSQL</li>
+<li>Gutendex API</li>
+<li>Maven</li>
+</ul>
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
