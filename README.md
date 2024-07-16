@@ -73,3 +73,6 @@ Execute o projeto:
 
 ## Youtube
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [Meu Canal](https://www.youtube.com/channel/UCkmng9THj4jMxrk8963ZxLg)
+
+
+![badge literalura](https://github.com/user-attachments/assets/77d3bfc8-955a-4356-9674-c4c9a61b6fb3)
